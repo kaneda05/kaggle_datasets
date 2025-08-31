@@ -1,6 +1,5 @@
 # Customer Analytics Practice Dataset
-
-https://github.com/kaneda05/kaggle_datasets/blob/main/png/01_Customer%20Analysis.png
+![image](https://github.com/kaneda05/kaggle_datasets/blob/main/png/01_Customer%20Analysis.png)
 
 このデータセットは、一般的なMall Customersデータセットを拡張したもので元のデータに年齢、性別、年収、購買スコアといった基本的な情報に加え、以下のようなより現実的な特徴が追加されている。
 
