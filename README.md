@@ -1,1 +1,2 @@
 # kaggle_datasets
+kaggleのDatasetsを使用した練習用リポジトリ
