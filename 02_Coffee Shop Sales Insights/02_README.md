@@ -10,7 +10,7 @@
 [Coffee sales strategy planning](https://www.kaggle.com/code/masakane/coffee-sales-strategy-planning)と言う名前でnotebookを作成。
 
 
-個人的にコーヒーは好きなので、暇だったら外部のサイトからコーヒーの種類などを調べて詳細を記載したりするかも。
+個人的にコーヒーは好きなので、暇だったら外部のサイトからコーヒーの種類などを調べて詳細を記載したりするかも
 
 Next Step：クラスターを作成して詳細な分析
 想定しているクラスター
