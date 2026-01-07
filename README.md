@@ -7,5 +7,7 @@ kaggleのDatasetsを使用した練習用リポジトリ
 |002|[Coffee Shop Sales Insights](https://www.kaggle.com/datasets/kainatjamil12/coffe-sale/code)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/02_README.md)|2025/11/12|
 |003|[Salary](https://www.kaggle.com/datasets/kainatjamil12/coffe-sale/code)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/03_README.md)|2026/1/5|
 |004|[500 Restaurant Dataset](https://www.kaggle.com/datasets/sayan20004/5000-restaurant-dataset-all-details/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/03_README.md)|2026/1/6|
+|005|[Online Learning & Course Consumption Dataset](https://www.kaggle.com/datasets/sayan20004/5000-restaurant-dataset-all-details/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/03_README.md)|2026/1/6|
+|006|[Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/03_README.md)|2026/1/7|
 |xxx|xxx|xxx|xxx|
 |xxx|xxx|xxx|xxx|
