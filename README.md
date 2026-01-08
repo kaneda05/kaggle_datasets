@@ -9,7 +9,8 @@ kaggleのDatasetsを使用した練習用リポジトリ
 |004|[500 Restaurant Dataset](https://www.kaggle.com/datasets/sayan20004/5000-restaurant-dataset-all-details/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/04_README.md)|2026/1/6|
 |005|[Online Learning & Course Consumption Dataset](https://www.kaggle.com/datasets/sayan20004/5000-restaurant-dataset-all-details/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/05_README.md)|2026/1/6|
 |006|[Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/06_README.md)|2026/1/7|
-|007|[Exam Score Prediction Dataset](https://www.kaggle.com/datasets/sayan20004/5000-restaurant-dataset-all-details/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/1/8|
+|007|[Exam Score Prediction Dataset](https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/1/8|
+|008|[Chocolate Sales](https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/1/8|
 |xxx|xxx|xxx|xxx|
 |xxx|xxx|xxx|xxx|
 
